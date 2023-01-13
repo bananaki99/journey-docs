@@ -183,7 +183,7 @@ msgstr "LEI ID (LEI_ID)"
 #: ../../source/domain/ifdat/categories/self_info.rst:159
 #: 1ab9c520ea0b492094b142ef7d714421 ebe1cfcf56234634aa284b67587b77b3
 msgid "Identifier code based on the ISO-17442 standard."
-msgstr "Αναγνωριστικός κωδικός ο οποίος αποδίδεται βάση του προτύπου ISO-17442·"
+msgstr "Αναγνωριστικός κωδικός ο οποίος αποδίδεται βάσει του προτύπου ISO-17442·"
 
 #: ../../source/domain/ifdat/categories/self_info.rst:48
 #: ../../source/domain/ifdat/categories/self_info.rst:165
@@ -271,7 +271,7 @@ msgid ""
 "company of the ``OA`` in case the ``OA`` has a management company and the"
 " ``RA`` is not the management company.  The measures of this table can "
 "change during the life cycle of the reported entities."
-msgstr "Χρησιμοποιείται για την παροχή πληροφοριακών στοιχείων της ``ΜΠΣ`` σε περίπτωση που η ``ΜΠΣ`` δεν είναι η ίδια με την ``ΠΜ`` καθώς και τη  διαχειρίστρια εταιρεία σε περίπτωση που η ``ΠΜ`` έχει διαχειρίστρια εταιρεία και δεν είναι ίδια με την ``ΜΠΣ``.  Τα στοιχεία δύναται να μεταβληθούν κατά τη διάρκεια του κύκλου ζωής των μονάδων που υποβάλλονται στοιχεία."
+msgstr "Χρησιμοποιείται για την παροχή πληροφοριακών στοιχείων της ``ΜΠΣ`` σε περίπτωση που η ``ΜΠΣ`` δεν είναι η ίδια με την ``ΠΜ`` καθώς και τη  διαχειρίστρια εταιρεία σε περίπτωση που η ``ΠΜ`` έχει διαχειρίστρια εταιρεία και δεν είναι ίδια με την ``ΜΠΣ``.  Τα στοιχεία δύναται να μεταβληθούν κατά τη διάρκεια του κύκλου ζωής των μονάδων."
 
 #: ../../source/domain/ifdat/categories/self_info.rst:81
 #: ../../source/domain/ifdat/categories/self_info.rst:196
